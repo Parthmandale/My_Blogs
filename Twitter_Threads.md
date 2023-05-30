@@ -1,2 +1,2 @@
-[BRC-20] (https://twitter.com/ParthMandale/status/1663561643715076097?s=20)
+[BRC-20](https://twitter.com/ParthMandale/status/1663561643715076097?s=20)
  
