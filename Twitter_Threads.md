@@ -1,2 +1,2 @@
-[BRC-20](https://twitter.com/ParthMandale/status/1663561643715076097?s=20)
- 
+- [BRC-20](https://twitter.com/ParthMandale/status/1663561643715076097?s=20)
+- [ Imp JavaScript topics to master before starting out Reactjs](https://twitter.com/ParthMandale/status/1676206709763604480?s=20)
