@@ -6,4 +6,4 @@
 
 - 4. [Exploring the Duality: EVM and Non-EVM Chains Unveiled](https://parthmandale.hashnode.dev/exploring-the-duality-evm-and-non-evm-chains-unveiled)
 
--5. [Understanding the Basics of React.js](https://www.blackslate.io/articles/understanding-basics-of-react)
+- 5. [Understanding the Basics of React.js](https://www.blackslate.io/articles/understanding-basics-of-react)
